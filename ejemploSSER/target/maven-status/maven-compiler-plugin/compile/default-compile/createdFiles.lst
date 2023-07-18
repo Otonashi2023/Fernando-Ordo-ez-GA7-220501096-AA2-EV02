@@ -1,0 +1,10 @@
+co\edu\sena\ejemplosser\logica\Cliente_.class
+co\edu\sena\ejemplosser\servlets\SvCliente.class
+co\edu\sena\ejemplosser\persistencia\exceptions\IllegalOrphanException.class
+co\edu\sena\ejemplosser\persistencia\exceptions\PreexistingEntityException.class
+co\edu\sena\ejemplosser\logica\Controladora.class
+co\edu\sena\ejemplosser\persistencia\ControladoraPersistencia.class
+co\edu\sena\ejemplosser\logica\Cliente.class
+co\edu\sena\ejemplosser\NewClass.class
+co\edu\sena\ejemplosser\persistencia\exceptions\NonexistentEntityException.class
+co\edu\sena\ejemplosser\persistencia\ClienteJpaController.class

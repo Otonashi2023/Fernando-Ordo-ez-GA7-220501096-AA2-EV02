@@ -1,0 +1,42 @@
+header{
+border-style: groove;
+    
+}
+
+header img{
+width: 50%;
+}
+
+body{
+margin: 5px;
+padding: 0%;
+background-color: #ccffff;
+}
+
+.cuerpo{
+padding: 3px;
+text-align: center;
+margin: auto;
+width: 80%;
+background-color: #00ffff;
+max-width: 900px;
+font-size: 2vh;
+}
+
+section{
+    
+color: #666666;
+padding-top: 10px;
+padding-bottom: 3px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-auto-rows: 1fr;
+
+}
+
+footer{
+color: #666666;
+text-align: center;
+border-style: groove;
+}
+
